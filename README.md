@@ -1,1 +1,1 @@
-[![Captura-de-pantalla-1277.png](https://i.postimg.cc/fTXCDBNq/Captura-de-pantalla-1277.png)](https://postimg.cc/3d8mZjW2)
+[![Landing-Page.png](https://i.postimg.cc/WpJppJff/Landing-Page.png)](https://postimg.cc/z38Y03Nn)
