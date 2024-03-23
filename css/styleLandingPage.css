@@ -47,9 +47,8 @@ header {
 .one-section {
   max-width: 100%;
   display: flex;
-  /* background-color: #681048; */
   gap: 20px;
-  padding: 23px;
+  padding: 2px;
   background-color: #671770df;
 }
 
@@ -68,7 +67,7 @@ header {
 }
 
 /* que aprenderas */
-.wrap-one-section-title h2 {
+.one-section-title{
   width: 70%;
   /* color: var(--color); */
   color: #ffd683;
@@ -79,12 +78,13 @@ header {
 }
 
 .wrap-one-section-ul-list {
-  width: 90%;
+  width: 88%;
   font-family: var(--font-family);
   font-size: 1.1rem;
+  line-height: 1.9rem;
   color: var(--color);
   color: #ffd683;
-  transform: translateX(50px);
+  transform: translateX(40px);
 }
 
 /*----------TWO SECTION------------ */
